@@ -1,0 +1,2 @@
+# nspbypragyankandpranay
+ Studemt Management System
